@@ -49,8 +49,6 @@ npm run serve
   - `sys_session`（场次信息）  
   - `sys_bill`（订单信息）  
   - `sys_user`（用户信息）  
-- **ER 图**：  
-  ![ER Diagram](media/image6.png)
 
 ## 接口示例
 ### 用户登录
